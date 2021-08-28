@@ -1,6 +1,13 @@
 ## Cat Project
 
-First, run the development server:
+First, install module
+
+```bash
+npm install
+# or
+yarn install
+```
+Second, run the development server:
 
 ```bash
 npm run dev
